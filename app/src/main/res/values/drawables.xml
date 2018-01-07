@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_firstaid" type="drawable">@drawable/ic_local_hospital_black_24dp</item>
+    <item name="ic_menu_vitalsign" type="drawable">@drawable/ic_calculator</item>
+    <item name="ic_menu_manifestation" type="drawable">@drawable/ic_virus</item>
+    <item name="ic_menu_assessment" type="drawable">@drawable/ic_assessment_black_24dp</item>
+    <item name="ic_menu_account" type="drawable">@drawable/ic_account_box_black_24dp</item>
+</resources>
